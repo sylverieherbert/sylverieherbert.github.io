@@ -8,4 +8,4 @@ redirect_from:
 ---
 
 {% include base_path %}
-![CV]({{ site.url }}/https://github.com/sylverieherbert/sylverieherbert.github.io/blob/master/files/Herbert-Sylverie_CV.pdf)
+[CV](../files/Herbert-Sylverie_CV.pdf)
