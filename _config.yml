@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sylvérie Herbert"
+title                    : "Sylverie Herbert"
 title_separator          : "-"
-name                     : &name "Sylvérie Herbert"
+name                     : &name "Sylverie Herbert"
 description              : &description "PhD candidate, Cornell University"
 url                      : https://sylverieherbert.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
