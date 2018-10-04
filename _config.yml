@@ -84,7 +84,6 @@ author:
   bio              : "PhD candidate"
   location         : "Cornell University"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
   uri              :
   bitbucket        :
@@ -96,10 +95,8 @@ author:
   github           : "sh2258"
   google_plus      :
   keybase          :
-  instagram        :
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         :"https://www.linkedin.com/in/sylv%C3%A9rie-herbert-23b24027/"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
