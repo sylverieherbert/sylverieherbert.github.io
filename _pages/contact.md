@@ -10,7 +10,6 @@ redirect_from:
 
 
 ## Mailing address ##
-======
 Department of Economics
 
 465 Uris Hall
@@ -18,9 +17,7 @@ Department of Economics
 Ithaca, NY 14850
 
 ## Email address ##
-======
 sh2258@cornell.edu
 
 ## Mobile ##
-======
 929 293 8772
