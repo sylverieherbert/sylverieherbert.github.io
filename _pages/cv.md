@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 {% include base_path %}
-[[Download CV]](../files/Herbert-Sylverie_CV.pdf)
+[[Download CV here]](../files/Herbert-Sylverie_CV.pdf)
 
 {% include base_path %}
 
@@ -28,8 +28,8 @@ Macroeconomics (Monetary Economics), Information Economics (Rational Inattention
 
 Research papers in progress
 ======
-Replicability of a journal: a comprehensive overview'' (joint with H. Kingi, F. Stanchi and L.Vilhuber)
-Strategic Communication with Heterogeneous Beliefs'
+>Replicability of a journal: a comprehensive overview< (joint with H. Kingi, F. Stanchi and L.Vilhuber)
+>Strategic Communication with Heterogeneous Beliefs<
 
   
 Research Experience and other employment
@@ -59,17 +59,17 @@ Honors, Scholarships and Fellowships
   
 Conferences and presentations
 ======
-* 2019: Midwest Economic Association Annual Meeting (session on the ``Challenges of Central Banking Policy"), Western Economic Association International's Student Graduate Workshop, Annual Congress of the European Economic Association (Manchester), Richmond Fed, St Louis Fed, Young Economist Symposium (Columbia University), Cornell Macro Lunch
-* 2018: European Central Bank, Berkeley Initiative for Transparency in the Social Science*, UC Louvain Conference on `New Challenges of Central Bank Communication'' 
+* 2019: Midwest Economic Association Annual Meeting (session on the Challenges of Central Banking Policy), Western Economic Association International's Student Graduate Workshop, Annual Congress of the European Economic Association (Manchester), Richmond Fed, St Louis Fed, Young Economist Symposium (Columbia University), Cornell Macro Lunch
+* 2018: European Central Bank, Berkeley Initiative for Transparency in the Social Science, UC Louvain Conference on `New Challenges of Central Bank Communication'' 
 * 2017: Cornell Macro Lunch
 * 2013: Observatoire Fran\c{c}ais des Conjonctures Economiques
   
 Skills
 ======
 * <em>Programming</em>: Matlab, Stata, Sas, Python, LaTeX.
-* <em>Languages</em> French (native), English (fluent), Spanish (fluent), German (beginner), Greek, Latin
+* <em>Languages</em>: French (native), English (fluent), Spanish (fluent), German (beginner), Greek, Latin
   
 Personal Information
 ======
-* <em>Citizenship</em>	France
-* <em>Date of Birth</em> June 11, 1990
+* <em>Citizenship</em>:	France
+* <em>Date of Birth</em>: June 11, 1990
