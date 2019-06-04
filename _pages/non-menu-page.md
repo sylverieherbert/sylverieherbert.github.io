@@ -1,17 +1,24 @@
 ---
 permalink: /non-menu-page/
-title: "Page not in menu"
-excerpt: "This is a page not in th emain menu"
+title: "Contact"
+excerpt: ""
 author_profile: true
 redirect_from: 
   - "/nmp/"
   - "/nmp.html"
 ---
 
-This is a page not in the menu. You can use markdown in this page.
 
-Heading 1
+Mailing address 
 ======
+Department of Economics
+465 Uris Hall
+Ithaca, NY 14850
 
-Heading 2
+Email address 
 ======
+sh2258@cornell.edu
+
+Mobile
+======
+929 293 8772
