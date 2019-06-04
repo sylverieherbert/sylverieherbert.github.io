@@ -18,7 +18,7 @@ Education
 * M.A, Economics and Public Policy, Sciences Po Paris, 2014
 * B.A, Economics and Mathematics, Columbia University, 2012
 * B.A, Political Sciences, Sciences Po Paris, 2012
-* B.A, Natural and Exact Sciences, Universit\'{e} Pierre et Marie Curie, 2011
+* B.A, Natural and Exact Sciences, Universite Pierre et Marie Curie, 2011
 
 Research Fields
 ======
