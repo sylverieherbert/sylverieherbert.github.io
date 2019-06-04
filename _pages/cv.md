@@ -28,8 +28,8 @@ Macroeconomics (Monetary Economics), Information Economics (Rational Inattention
 
 Research papers in progress
 ======
-> Replicability of a journal: a comprehensive overview (joint with H. Kingi, F. Stanchi and L.Vilhuber)
-> Strategic Communication with Heterogeneous Beliefs
+* Replicability of a journal: a comprehensive overview (joint with H. Kingi, F. Stanchi and L.Vilhuber)
+* Strategic Communication with Heterogeneous Beliefs
 
   
 Research Experience and other employment
