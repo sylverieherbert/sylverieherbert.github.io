@@ -5,8 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-Teaching
-======
+
 I was a teaching assistant for the following courses: 
 
 * Introductory macroeconomics (Cornell, Fall 2015)
