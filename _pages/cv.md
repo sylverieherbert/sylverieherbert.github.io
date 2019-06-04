@@ -28,41 +28,41 @@ Macroeconomics (Monetary Economics), Information Economics (Rational Inattention
 
 Research papers in progress
 ======
-``Replicability of a journal: a comprehensive overview'' (joint with H. Kingi, F. Stanchi and L.Vilhuber)
-``Strategic Communication with Heterogeneous Beliefs''
+Replicability of a journal: a comprehensive overview'' (joint with H. Kingi, F. Stanchi and L.Vilhuber)
+Strategic Communication with Heterogeneous Beliefs'
 
   
 Research Experience and other employment
 ======
-* 2019 CSWEP Summer Dissertation Fellowship - Federal Reserve Bank of Richmond and Federal Reserve Bank of St. Louis 
-* 2018 European Central Bank PhD Summer Research Internship, DG Research - Monetary Policy
-* 2016- Research Assistant for Lars Vilhuber, Cornell University
-* Summer 2015 Research Assistant for Julieta Caunedo, Cornell University
-* Summer 2014 Traineeship, European Central Bank, DG Economics, Monetary Policy Strategy division
-* Summer 2013 Research Assistant, French Economic Observatory (OFCE), Analysis and Forecasting
-* 2011-2012 Research Assistant for Noha Emara, Columbia University
+* 2019: CSWEP Summer Dissertation Fellowship - Federal Reserve Bank of Richmond and Federal Reserve Bank of St. Louis 
+* 2018: European Central Bank PhD Summer Research Internship, DG Research - Monetary Policy
+* 2016-: Research Assistant for Lars Vilhuber, Cornell University
+* Summer 2015: Research Assistant for Julieta Caunedo, Cornell University
+* Summer 2014: Traineeship, European Central Bank, DG Economics, Monetary Policy Strategy division
+* Summer 2013: Research Assistant, French Economic Observatory (OFCE), Analysis and Forecasting
+* 2011-2012: Research Assistant for Noha Emara, Columbia University
 
 Teaching Experience
 ======
-* 2015 Introductory Macroeconomics, Cornell University, for Jennifer Wissink
-* 2014 Intermediate Macroeconomics, Sciences Po, for Zsofia Barany
-* 2012 Analysis and Optimization, Columbia University, for Clement Hongler
+* 2015: Introductory Macroeconomics, Cornell University, for Jennifer Wissink
+* 2014: Intermediate Macroeconomics, Sciences Po, for Zsofia Barany
+* 2012: Analysis and Optimization, Columbia University, for Clement Hongler
 
 
 Honors, Scholarships and Fellowships
 ======
-* 2019 CSWEP Summer Dissertation Fellowship (Federal Reserve Bank of Richmond and Federal Reserve Bank of St. Louis), Cornell Graduate School Conference Travel Grant
-* 2018 European Central Bank Summer Research Internship, DG Research - Monetary Policy
-* 2014 Sage Fellowship, Cornell
-* 2012 Columbia University, member of the Honor Society
-* 2010-2012 Columbia University Dean's List, TOMS scholarship
+* 2019: CSWEP Summer Dissertation Fellowship (Federal Reserve Bank of Richmond and Federal Reserve Bank of St. Louis), Cornell Graduate School Conference Travel Grant
+* 2018: European Central Bank Summer Research Internship, DG Research - Monetary Policy
+* 2014: Sage Fellowship, Cornell
+* 2012: Columbia University, member of the Honor Society
+* 2010-2012: Columbia University Dean's List, TOMS scholarship
   
 Conferences and presentations
 ======
-* 2019 Midwest Economic Association Annual Meeting (session on the ``Challenges of Central Banking Policy"), Western Economic Association International's Student Graduate Workshop, Annual Congress of the European Economic Association (Manchester), Richmond Fed, St Louis Fed, Young Economist Symposium (Columbia University), Cornell Macro Lunch
-* 2018 European Central Bank, Berkeley Initiative for Transparency in the Social Science*, UC Louvain Conference on `New Challenges of Central Bank Communication'' 
-* 2017} Cornell Macro Lunch
-* 2013 Observatoire Fran\c{c}ais des Conjonctures Economiques
+* 2019: Midwest Economic Association Annual Meeting (session on the ``Challenges of Central Banking Policy"), Western Economic Association International's Student Graduate Workshop, Annual Congress of the European Economic Association (Manchester), Richmond Fed, St Louis Fed, Young Economist Symposium (Columbia University), Cornell Macro Lunch
+* 2018: European Central Bank, Berkeley Initiative for Transparency in the Social Science*, UC Louvain Conference on `New Challenges of Central Bank Communication'' 
+* 2017: Cornell Macro Lunch
+* 2013: Observatoire Fran\c{c}ais des Conjonctures Economiques
   
 Skills
 ======
