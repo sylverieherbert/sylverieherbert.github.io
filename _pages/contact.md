@@ -11,9 +11,7 @@ redirect_from:
 
 ## Mailing address ##
 Department of Economics
-
 465 Uris Hall
-
 Ithaca, NY 14850
 
 ## Email address ##
