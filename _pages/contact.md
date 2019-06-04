@@ -1,5 +1,5 @@
 ---
-permalink: /non-menu-page/
+permalink: /contact/
 title: "Contact"
 excerpt: ""
 author_profile: true
