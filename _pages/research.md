@@ -24,7 +24,7 @@ Mass Layoffs and Wage Rigidity (with C.Huckfeldt)
 
 Discussions
 ======
-Fireside Chats: Communication and Consumers' Expectations in the Great Depression (Mathieu Pedemonte), Columbia Young Economist Symposium, 2019
+Fireside Chats: Communication and Consumers' Expectations in the Great Depression (Mathieu Pedemonte), Columbia University - Young Economist Symposium, 2019
 
 Money Flow in a Dynamic Economy (Larry Marsh), Midwest Economic Association, 2019
 
