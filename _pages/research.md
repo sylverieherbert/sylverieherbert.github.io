@@ -19,10 +19,13 @@ Strategic Communication with Heterogeneous Beliefs (draft coming soon)
 Work in progress
 ======
 Optimal State Contingent Central Bank Communication
+
 Mass Layoffs and Wage Rigidity (with C.Huckfeldt)
 
 Discussions
 ======
 Fireside Chats: Communication and Consumers' Expectations in the Great Depression (Mathieu Pedemonte), Columbia Young Economist Symposium, 2019
+
 Money Flow in a Dynamic Economy (Larry Marsh), Midwest Economic Association, 2019
+
 Measuring ECB's Communication: a Media-based Automated Approach (Francesco Pesci), Conference on the New Challenges of Central Bank Communication, UC Louvain, 2018
