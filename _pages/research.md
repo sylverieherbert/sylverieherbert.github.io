@@ -16,5 +16,13 @@ Strategic Communication with Heterogeneous Beliefs (draft coming soon)
  Replicability of a journal: a comprehensive overview (joint with H. Kingi, F. Stanchi and L.Vilhuber)
 > Replication, reproduction, and falsification of published articles are an important part of the scientific endeavor, and have been widely discussed. The lessons learned from earlier replication exercises such as (Dewald et al, 1986) lead several journals to implement code and data depository requirements. These should have lead to improved reproducibility of journal archives, since a good part of the failure to replicate is due to poor availability of replication materials (McCullough et al, 2006). We set out to test the latter assumption. We assessed all articles published in the American Economic Journal: Applied Economics (AEJ:AE) as to the reproducibility of their computational results, and tested the reproducibility for all those with some data available.
 
-Works in progress
+Work in progress
 ======
+Optimal State Contingent Central Bank Communication
+Mass Layoffs and Wage Rigidity (with C.Huckfeldt)
+
+Discussions
+======
+Fireside Chats: Communication and Consumers' Expectations in the Great Depression (Mathieu Pedemonte), Columbia Young Economist Symposium, 2019
+Money Flow in a Dynamic Economy (Larry Marsh), Midwest Economic Association, 2019
+Measuring ECB's Communication: a Media-based Automated Approach (Francesco Pesci), Conference on the New Challenges of Central Bank Communication, UC Louvain, 2018

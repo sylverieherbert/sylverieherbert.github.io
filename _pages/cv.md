@@ -28,15 +28,18 @@ Macroeconomics (Monetary Economics), Information Economics (Rational Inattention
 
 Research papers in progress
 ======
-* Replicability of a journal: a comprehensive overview (joint with H. Kingi, F. Stanchi and L.Vilhuber)
 * Strategic Communication with Heterogeneous Beliefs
+* Optimal state contingent central bank communication 
+* Mass layoffs and wage rigidity (with C.Huckfeldt)
+* Replicability of a journal: a comprehensive overview (joint with H. Kingi, F. Stanchi and L.Vilhuber)
+
 
   
 Research Experience and other employment
 ======
 * 2019: CSWEP Summer Dissertation Fellowship - Federal Reserve Bank of Richmond and Federal Reserve Bank of St. Louis 
 * 2018: European Central Bank PhD Summer Research Internship, DG Research - Monetary Policy
-* 2016-: Research Assistant for Lars Vilhuber, Cornell University
+* 2016-present: Research Assistant for Lars Vilhuber, Cornell University
 * Summer 2015: Research Assistant for Julieta Caunedo, Cornell University
 * Summer 2014: Traineeship, European Central Bank, DG Economics, Monetary Policy Strategy division
 * Summer 2013: Research Assistant, French Economic Observatory (OFCE), Analysis and Forecasting
