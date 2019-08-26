@@ -26,15 +26,17 @@ Macroeconomics (Monetary Economics), Information Economics (Rational Inattention
 
 
 
-Research papers in progress
+Working papers
 ======
 * Strategic Communication with Heterogeneous Beliefs
+* Replicability of a journal: a comprehensive overview (joint with H. Kingi, F. Stanchi and L.Vilhuber)
+* Econometric analysis of regime switches and of fiscal multipliers
+
+Work in progress
+======
 * Optimal state contingent central bank communication 
 * Mass layoffs and wage rigidity (with C.Huckfeldt)
-* Replicability of a journal: a comprehensive overview (joint with H. Kingi, F. Stanchi and L.Vilhuber)
 
-
-  
 Research Experience and other employment
 ======
 * 2019: CSWEP Summer Dissertation Fellowship - Federal Reserve Bank of Richmond and Federal Reserve Bank of St. Louis 
