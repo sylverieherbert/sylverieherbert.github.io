@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 {% include base_path %}
-[[Download CV]](../files/Herbert-Sylverie_CV.pdf)
+[[<span style="color:blue">someDownload CVtext</span>]](../files/Herbert-Sylverie_CV.pdf)
 
 {% include base_path %}
 
