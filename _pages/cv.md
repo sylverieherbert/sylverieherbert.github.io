@@ -7,8 +7,9 @@ redirect_from:
   - /resume
 ---
 {% include base_path %}
+<div class="text-blue mb-2">
 [[Download CV here]](../files/Herbert-Sylverie_CV.pdf)
-
+</div>
 {% include base_path %}
 
 Education
@@ -24,18 +25,18 @@ Research Fields
 ======
 Macroeconomics (Monetary Economics), Information Economics (Rational Inattention, Expectations Formation)
 
-
-
 Working papers
 ======
-* Strategic Communication with Heterogeneous Beliefs
-* Replicability of a journal: a comprehensive overview (joint with H. Kingi, F. Stanchi and L.Vilhuber)
+* State-Dependent Central Bank Communication with Heterogeneous Beliefs
 * Econometric analysis of regime switches and of fiscal multipliers
+
 
 Work in progress
 ======
-* Optimal state contingent central bank communication 
+* The signaling effect of state-dependent central bank communication 
 * Mass layoffs and wage rigidity (with C.Huckfeldt)
+* Replicability of a journal: a comprehensive overview (joint with H. Kingi, F. Stanchi and L.Vilhuber)
+
 
 Research Experience and other employment
 ======
