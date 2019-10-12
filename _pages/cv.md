@@ -7,9 +7,8 @@ redirect_from:
   - /resume
 ---
 {% include base_path %}
-<div class="text-blue mb-2">
 [[Download CV here]](../files/Herbert-Sylverie_CV.pdf)
-</div>
+
 {% include base_path %}
 
 Education
