@@ -17,6 +17,7 @@ Replicability of a journal: a comprehensive overview (joint with H. Kingi, F. St
 > Replication, reproduction, and falsification of published articles are an important part of the scientific endeavor, and have been widely discussed. The lessons learned from earlier replication exercises such as (Dewald et al, 1986) lead several journals to implement code and data depository requirements. These should have lead to improved reproducibility of journal archives, since a good part of the failure to replicate is due to poor availability of replication materials (McCullough et al, 2006). We set out to test the latter assumption. We assessed all articles published in the American Economic Journal: Applied Economics (AEJ:AE) as to the reproducibility of their computational results, and tested the reproducibility for all those with some data available.
 
 [<span style="color:#007CBB">Econometric Analysis of Regime Switches and of Fiscal Multipliers</span>](http://sylverieherbert.github.io/files/WP2014-01.pdf) 
+**OFCE Working paper 2014-01**
 >In this paper, I extend the technique of vector autoregressions (VARs) to account for the possibility of a state-dependent fiscal multipliers for France, Germany, Italy and the United States. I estimate a non linear smooth transition vector autoregression, following Auerbach and Gorodnichenko (2012a). My results suggest that the output multiplier of government purchases is significantly higher in recessions than expansions. 
  
 Work in progress
