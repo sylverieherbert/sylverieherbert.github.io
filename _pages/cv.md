@@ -78,6 +78,7 @@ Skills
 ======
 * <em>Programming</em>: Matlab, Stata, Sas, Python, LaTeX.
 * <em>Languages</em>: French (native), English (fluent), Spanish (fluent), German (beginner)
+* <em>Certifications</em>: Certification of the French Financial Markets Authority
   
 Personal Information
 ======
