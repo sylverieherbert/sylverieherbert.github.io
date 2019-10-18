@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in the department of Economics, Cornell University. I am a macroeconomist with research interest at the intersection of monetary economics and information economics (informational frictions and the formation of expectations). I work on central bank communication from both a theoretical and empirical perspective. In my job market paper, I study the state-dependent central bank communication in presence of disagreement. 
+I am a PhD candidate in the department of Economics, Cornell University. 
+
+I am a macroeconomist with research interest at the intersection of monetary economics and information economics (informational frictions and the formation of expectations). I work on central bank communication from both a theoretical and empirical perspective. In my job market paper, I study the state-dependent central bank communication in presence of disagreement. 
 
 I am working under the supervision of [Kristoffer Nimark](http://www.kris-nimark.net/), [Chris Huckfeldt](https://huckfeldt.economics.cornell.edu/), [Julieta Caunedo](https://www.julietacaunedo.com/) and [Lars Vilhuber](https://www.ilr.cornell.edu/people/lars-vilhuber). 
 
