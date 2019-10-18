@@ -8,8 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in the department of Economics, Cornell University, working under the supervision of [Kristoffer Nimark](http://www.kris-nimark.net/), [Chris Huckfeldt](https://huckfeldt.economics.cornell.edu/), [Julieta Caunedo](https://www.julietacaunedo.com/) and [Lars Vilhuber](https://www.ilr.cornell.edu/people/lars-vilhuber). 
+I am a PhD candidate in the department of Economics, Cornell University. I am a macroeconomist with research interest at the intersection of monetary economics and information economics (informational frictions and the formation of expectations). I work on central bank communication from both a theoretical and empirical perspective. In my job market paper, I study the state-dependent central bank communication in presence of disagreement. 
 
-**I am available for interviews both in the European Job Market in Rotterdam and in the ASSA Annual Meeting in San Diego.**
+I am working under the supervision of [Kristoffer Nimark](http://www.kris-nimark.net/), [Chris Huckfeldt](https://huckfeldt.economics.cornell.edu/), [Julieta Caunedo](https://www.julietacaunedo.com/) and [Lars Vilhuber](https://www.ilr.cornell.edu/people/lars-vilhuber). 
 
-My research interests are in macroeconomics, in particular monetary economics, and in information economics (informational frictions and the formation of expectations). I am currently working on Central Bank Communication.
+**I will be available for interviews both at the EEA Annual Meeting in Rotterdam (December, 18-19th, 2019) and the ASSA Annual Meeting in San Diego, CA (Jnuary 3rd-5th, 2020).**
+
+
