@@ -28,9 +28,9 @@ Mass layoffs and wage rigidity (joint with C.Huckfeldt)
 
 Discussions
 ======
-Fireside Chats: Communication and Consumers' Expectations in the Great Depression (Mathieu Pedemonte), Columbia University - Young Economist Symposium, 2019 [<span style="color:#007CBB">Slides</span>](http://sylverieherbert.github.io/files/dicussion_Pedemonte.pdf)
+Fireside Chats: Communication and Consumers' Expectations in the Great Depression (Mathieu Pedemonte), Columbia University - Young Economist Symposium, 2019 [<span style="color:#007CBB">Slides</span>](http://sylverieherbert.github.io/files/discussion_Pedemonte.pdf)
 
-Money Flow in a Dynamic Economy (Larry Marsh), Midwest Economic Association, 2019 [<span style="color:#007CBB">Slides</span>](http://sylverieherbert.github.io/files/MFDE_MEA2019.tex .pdf.pdf)
+Money Flow in a Dynamic Economy (Larry Marsh), Midwest Economic Association, 2019 [<span style="color:#007CBB">Slides</span>](http://sylverieherbert.github.io/files/MFDE_MEA2019.tex .pdf)
 
 
 Measuring ECB's Communication: a Media-based Automated Approach (Francesco Pesci), Conference on the New Challenges of Central Bank Communication, UC Louvain, 2018 [<span style="color:#007CBB">Slides</span>](http://sylverieherbert.github.io/files/Pesci2018_discussion.pdf)
