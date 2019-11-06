@@ -50,7 +50,8 @@ Research Experience and other employment
 
 Teaching Experience
 ======
-* 2016: High Performance Computing for Economists workshop, with Lars Vilhuber and Flavio Stanchi
+* Spring 2016: Understanding Social and Economic Data, for Lars Vilhuber, John Abowd and Warren Brown
+* Summer 2016: High Performance Computing for Economists workshop, with Lars Vilhuber and Flavio Stanchi
 * 2015: Introductory Macroeconomics, Cornell University, for Jennifer Wissink
 * 2014: Intermediate Macroeconomics, Sciences Po, for Zsofia Barany
 * 2012: Analysis and Optimization, Columbia University, for Clement Hongler
