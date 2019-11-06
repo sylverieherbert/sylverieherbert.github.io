@@ -14,6 +14,7 @@ redirect_from:
 Education
 ======
 * Ph.D., Economics, Cornell University, 2020 (expected)
+* M.A., Economics, Cornell University, 2017
 * M.S., Economics, Ecole Polytechnique, 2014
 * M.A, Economics and Public Policy, Sciences Po Paris, 2014
 * B.A, Economics and Mathematics, Columbia University, 2012
@@ -27,6 +28,7 @@ Macroeconomics (Monetary Economics), Information Economics (Rational Inattention
 Working papers
 ======
 * State-Dependent Central Bank Communication with Heterogeneous Beliefs
+* Replicability of a journal: a comprehensive overview (joint with H. Kingi, F. Stanchi and L.Vilhuber)
 * Econometric analysis of regime switches and of fiscal multipliers
 
 
@@ -34,7 +36,6 @@ Work in progress
 ======
 * The signaling effect of state-dependent central bank communication 
 * Mass layoffs and wage rigidity (with C.Huckfeldt)
-* Replicability of a journal: a comprehensive overview (joint with H. Kingi, F. Stanchi and L.Vilhuber)
 
 
 Research Experience and other employment
@@ -49,6 +50,7 @@ Research Experience and other employment
 
 Teaching Experience
 ======
+* 2016: High Performance Computing for Economists workshop, with Lars Vilhuber and Flavio Stanchi
 * 2015: Introductory Macroeconomics, Cornell University, for Jennifer Wissink
 * 2014: Intermediate Macroeconomics, Sciences Po, for Zsofia Barany
 * 2012: Analysis and Optimization, Columbia University, for Clement Hongler
@@ -56,7 +58,7 @@ Teaching Experience
 
 Honors, Scholarships and Fellowships
 ======
-* 2019: CSWEP Summer Dissertation Fellowship (Federal Reserve Bank of Richmond and Federal Reserve Bank of St. Louis), Cornell Graduate School Conference Travel Grant
+* 2019: CSWEP Summer Dissertation Fellowship (Federal Reserve Bank of Richmond and Federal Reserve Bank of St. Louis), Cornell Graduate School Conference Travel Grant, EEA travel grant
 * 2018: European Central Bank Summer Research Internship, DG Research - Monetary Policy
 * 2014: Sage Fellowship, Cornell
 * 2012: Columbia University, member of the Honor Society
@@ -76,7 +78,7 @@ Professional Services
 
 Skills
 ======
-* <em>Programming</em>: Matlab, Stata, Sas, Python, LaTeX.
+* <em>Programming</em>: Matlab, Stata, Sas, Python, LaTeX, Git/GitHub
 * <em>Languages</em>: French (native), English (fluent), Spanish (fluent), German (beginner)
 * <em>Certifications</em>: Certification of the French Financial Markets Authority
   
