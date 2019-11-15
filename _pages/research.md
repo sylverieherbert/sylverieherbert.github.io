@@ -9,7 +9,7 @@ author_profile: true
 Working papers
 ======
 
-State-Dependent Central Bank Communication with Heterogeneous Beliefs (draft coming soon)
+[<span style="color:#007CBB">State-Dependent Central Bank Communication with Heterogeneous Beliefs</span>](https://www.dropbox.com/s/8t13j1o6dtwyh6b/SH_JMP_v2.pdf?dl=0) (JMP)
 > This paper explores the optimal communication strategy of a sender (for instance, a central bank), who wishes to influence receivers with state-dependent payoffs to take a desired action, when their beliefs about the state are heterogeneous. With a unique receiver, as in Gentzkow and Kamenica (2011), the sender only needed to bring the receiver's belief above a threshold. With heterogeneous beliefs, she will need to consider how others react, and therefore will take into account the distribution of beliefs. We find that while it is optimal to sometimes be overly optimistic in a bad state (meaning the probability of sending a good signal in a bad state is non-zero), it is also optimal to sometimes be pessimistic in a good state, contrarily to the one-receiver case. Most importantly, we show that the lower the dispersion in beliefs, the higher the probability of sending an untruthful signal should be. Extending the model to a dynamic bayesian persuasion setting, we allow for reputation concerns and show that a persuasion equilibrium exists. We test the model's predictions empirically by showing that FOMC forecasts' biases about the unemployment rate vary with both the business cycle and the private sector disagreement, in line with our model's predictions.
 
 
