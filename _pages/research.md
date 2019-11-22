@@ -22,14 +22,14 @@ Working papers
  
 Work in progress
 ======
-The Signaling effect of State-Dependent Central Bank Communication
+The Signaling Effect of State-Dependent Central Bank Communication
 > In this paper, I document the state-dependent topic composition of FOMC minutes using natural language processing techniques. I then propose a model in which the state-dependent reporting of the central bank impacts agents' expectations about both the state of the economy and the interest rate, therefore creating a ``signaling effect'' about an interest rate change. Taking into account this signaling effect of the topic composition, I derive the central bank's optimal state contingent communication policy. 
 
-Mass layoffs and wage rigidity (joint with C.Huckfeldt)
+Layoffs and Wage Rigidity (joint with C.Huckfeldt)
 
 Older work
 ======
-The pass-through of the sovereign debt crisis to bank lending in the Eurozone: a narrative approach
+The Pass-through of the Sovereign Debt Crisis to Bank Lending in the Eurozone: a Narrative Approach
 
 
 Discussions
