@@ -27,6 +27,11 @@ The Signaling effect of State-Dependent Central Bank Communication
 
 Mass layoffs and wage rigidity (joint with C.Huckfeldt)
 
+Older work
+======
+The pass-through of the sovereign debt crisis to bank lending in the Eurozone: a narrative approach
+
+
 Discussions
 ======
 Fireside Chats: Communication and Consumers' Expectations in the Great Depression (Mathieu Pedemonte), Columbia University - Young Economist Symposium, 2019 [<span style="color:#007CBB">Slides</span>](http://sylverieherbert.github.io/files/discussion_Pedemonte.pdf)
