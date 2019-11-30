@@ -40,13 +40,13 @@ Work in progress
 
 Research Experience and other employment
 ======
-* 2019: CSWEP Summer Dissertation Fellowship - Federal Reserve Bank of Richmond and Federal Reserve Bank of St. Louis 
-* 2018: European Central Bank PhD Summer Research Internship, DG Research - Monetary Policy
-* 2016-present: Research Assistant for Lars Vilhuber, Cornell University
-* Summer 2015: Research Assistant for Julieta Caunedo, Cornell University
-* Summer 2014: Traineeship, European Central Bank, DG Economics, Monetary Policy Strategy division
-* Summer 2013: Research Assistant, French Economic Observatory (OFCE), Analysis and Forecasting
-* 2011-2012: Research Assistant for Noha Emara, Columbia University
+* 2019: Federal Reserve Bank of Richmond and Federal Reserve Bank of St. Louis, CSWEP Summer Dissertation Fellowship 
+* 2018: European Central Bank, DG Research - Monetary Policy, PhD Summer Research Internship
+* 2016-present: Cornell University, Research Assistant for Lars Vilhuber
+* Summer 2015: Cornell University, Research Assistant for Julieta Caunedo
+* Summer 2014: European Central Bank, DG Monetary Policy, Monetary Policy Strategy division, Traineeship 
+* Summer 2013: French Economic Observatory (OFCE), Analysis and Forecasting, Traineeship
+* 2011-2012: Columbia University, Research Assistant for Noha Emara
 
 Teaching Experience
 ======
