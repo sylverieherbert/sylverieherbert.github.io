@@ -9,7 +9,7 @@ author_profile: true
 Working papers
 ======
 
-[<span style="color:#007CBB">State-Dependent Central Bank Communication with Heterogeneous Beliefs</span>](https://www.dropbox.com/s/jveeunv16eptwyi/SH_JMP_v2.pdf?dl=0) (JMP)
+[<span style="color:#007CBB">State-Dependent Central Bank Communication with Heterogeneous Beliefs</span>](https://www.dropbox.com/s/rhlu02mi4bs116y/SH_JMP_v2.pdf?dl=0) (JMP)
 > This paper studies the optimal disclosure strategy of a Sender who wishes to influence heterogeneous Receivers' expectations through public disclosure. I introduce heterogeneous priors in a standard bayesian persuasion model a la Gentzkow and Kamenica (2011) and characterize how the optimal disclosure depends on the heterogeneity of beliefs. I show that heterogeneity matters in two ways: (i) it is optimal to be send signals with positive error probabilities, contrarily to the homogeneous belief case; (ii) higher dispersion in beliefs brings the information authority to choose lower error probabilities. I apply the framework to a Central Bank communication problem in which the policy maker communicates about aggregate demand to distort firms' investment decisions. I test the model's predictions empirically by showing that FOMC unemployment rate forecasts are systematically biased in opposite directions in recessions and expansions, and the less so the higher the private sector disagreement is, in line with the model's predictions.
 
 
