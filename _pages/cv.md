@@ -67,6 +67,7 @@ Honors, Scholarships and Fellowships
   
 Conferences and presentations
 ======
+* 2020: European Central Bank, Banca d'Italia, Banque de France, Bank of England, Bundesbank, Sverige Riksbank, Norges Bank, St Gallen Universitat, Federal Reserve Bank of St Louis, Board of Governors (planned), Bank of Canada 
 * 2019: Midwest Economic Association Annual Meeting (session on the Challenges of Central Banking Policy), Western Economic Association International's Student Graduate Workshop, Annual Congress of the European Economic Association (Manchester), Richmond Fed, St Louis Fed, Young Economist Symposium (Columbia University), Cornell Macro Lunch
 * 2018: European Central Bank, Berkeley Initiative for Transparency in the Social Science, UC Louvain Conference on New Challenges of Central Bank Communication
 * 2017: Cornell Macro Lunch
