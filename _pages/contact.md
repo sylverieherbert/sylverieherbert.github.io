@@ -11,8 +11,11 @@ redirect_from:
 
 ## Mailing address ##
 Monetary Policy Division
+
 DGSEI-DEMFI-POMONE 41-1422
+
 31 rue Croix-des-Petits-Champs
+
 F-75049 Paris Cedex 1
 
 ## Email address ##
