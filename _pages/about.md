@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a research economist in the monetary policy at the Banque de France. 
+I am a research economist in the monetary policy department at the Banque de France. 
 
 I am a macroeconomist with research interest at the intersection of monetary economics and information economics (dispersed information and the formation of expectations). I work on central bank communication from both a theoretical and empirical perspective, in particular using natural language processing techniques. 
 
