@@ -40,7 +40,7 @@ Work in progress
 
 Work experience
 ======
-* August 2020: Banque de France, Research Economist,  Monetary and Financial Studies Division, Monetary Policy Department
+* August 2020-: Banque de France, Research Economist,  Monetary and Financial Studies Division, Monetary Policy Department
 * 2019: Federal Reserve Bank of Richmond and Federal Reserve Bank of St. Louis, CSWEP Summer Dissertation Fellowship 
 * 2018: European Central Bank, DG Research - Monetary Policy, PhD Summer Research Internship
 * 2016-present: Cornell University, Research Assistant for Lars Vilhuber
