@@ -13,7 +13,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D., Economics, Cornell University, 2020 (expected)
+* Ph.D., Economics, Cornell University, 2020
 * M.A., Economics, Cornell University, 2017
 * M.S., Economics, Ecole Polytechnique, 2014
 * M.A, Economics and Public Policy, Sciences Po Paris, 2014
@@ -38,8 +38,9 @@ Work in progress
 * Mass layoffs and wage rigidity (with C.Huckfeldt)
 
 
-Research Experience and other employment
+Work experience
 ======
+* August 2020: Banque de France, Research Economist,  Monetary and Financial Studies Division, Monetary Policy Department
 * 2019: Federal Reserve Bank of Richmond and Federal Reserve Bank of St. Louis, CSWEP Summer Dissertation Fellowship 
 * 2018: European Central Bank, DG Research - Monetary Policy, PhD Summer Research Internship
 * 2016-present: Cornell University, Research Assistant for Lars Vilhuber
