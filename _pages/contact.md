@@ -10,12 +10,13 @@ redirect_from:
 
 
 ## Mailing address ##
-Department of Economics <br/>
-465 Uris Hall <br/> 
-Ithaca, NY 14850
+Monetary Policy Division
+DGSEI-DEMFI-POMONE 41-1422
+31 rue Croix-des-Petits-Champs
+F-75049 Paris Cedex 1
 
 ## Email address ##
-sh2258@cornell.edu
+sylverie.herbert@banque-france.fr
 
 ## Mobile ##
-929 293 8772
++ 33 (0) 1 42 92 63 06
