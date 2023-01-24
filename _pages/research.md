@@ -19,7 +19,7 @@ Working papers
 **OFCE Working paper 2014-01**
 >In this paper, I extend the technique of vector autoregressions (VARs) to account for the possibility of a state-dependent fiscal multipliers for France, Germany, Italy and the United States. I estimate a non linear smooth transition vector autoregression, following Auerbach and Gorodnichenko (2012a). My results suggest that the output multiplier of government purchases is significantly higher in recessions than expansions. 
  
-Blog, Op-Ed posts
+Blog, Policy
 ======
 Why can sovereign and corporate borrowers borrow at negative rate? Banque de France Econ Notepad 212, with Adrian Penalver and Maria-Sole Pagliari [<span style="color:#007CBB">Link</span>]<a href="https://blocnotesdeleco.banque-france.fr/en/blog-entry/why-can-sovereign-and-corporate-borrowers-some-countries-borrow-negative-rates">
 
