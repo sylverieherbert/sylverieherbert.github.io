@@ -28,13 +28,19 @@ Macroeconomics (Monetary Economics), Information Economics (Rational Inattention
 Working papers
 ======
 * State-Dependent Central Bank Communication with Heterogeneous Beliefs
-* Replicability of a journal: a comprehensive overview (joint with H. Kingi, F. Stanchi and L.Vilhuber)
-* Econometric analysis of regime switches and of fiscal multipliers
+* Replicability of a Journal: a Comprehensive Overview (joint with H. Kingi, F. Stanchi and L.Vilhuber)
+* Measuring and Comparing Consumption Inequality in France and the United States (joint with A.Accardo, C.Jude and A.Penalver)
+* Econometric Analysis of Regime Switches and of Fiscal Multipliers
 
 
 Work in progress
 ======
-* The signaling effect of state-dependent central bank communication 
+*  Central Bank Information Shocks: Evidence from Speeches (joint with P.Hubert, M.L\'e)
+* The Signaling Effect of State-Dependent Central Bank Communication 
+* The Effect of Monetary Policy on Consumption Inequality (joint with A.Accardo, C.Jude and A.Penalver)
+* Are Internal and External Communication Strategies of Central Banks Consistent? (joint with K.Istrefi and G.Sestieri)
+* Media Coverage of Central Banks' Monetary Policy: Heterogeneity and its Implication (with K.Istrefi, B.Sagna and G.Sestieri) 
+* State-Dependent Central Bank Communication: a DSGE approach
 * Mass layoffs and wage rigidity (with C.Huckfeldt)
 
 
@@ -51,6 +57,8 @@ Work experience
 
 Teaching Experience
 ======
+* Spring 2023: Macroeconomics of Monetary Policy Evaluation, Sciences Po Paris
+* Spring 2022: Macroeconomics of Monetary Policy Evaluation, Sciences Po Paris
 * Spring 2016: Understanding Social and Economic Data, for Lars Vilhuber, John Abowd and Warren Brown
 * Summer 2016: High Performance Computing for Economists workshop, with Lars Vilhuber and Flavio Stanchi
 * 2015: Introductory Macroeconomics, Cornell University, for Jennifer Wissink
@@ -68,7 +76,7 @@ Honors, Scholarships and Fellowships
   
 Conferences and presentations
 ======
-* 2022: MUSEE conference  EM-Lyon, WEAI Portland
+* 2022: HEC Paris (invited), Theories and Method (T2M) London, Modeling Uncertainty (MUSEES) conference - EM Lyon, Western Economic Association International (invited), ECB-NY Fed-CEMLA conference on new challenges in monetary policy, ESCB research cluster 2, LISER conference on inflation inequalities (invited), Toulouse School of Economics, Banque de France network (Lyon)
 * 2021: Banco de Portugal, Banque de France DGSEI seminar, Universite Paris-Dauphine, Workshop in Monetary Economics University of Basel, Bundesbank and Riksbank ESCB research cluster conferences (discussions), International Economics Club
 * 2020: European Central Bank, Banca d'Italia, Banque de France, Bank of England, Bundesbank, Sverige Riksbank, Norges Bank, St Gallen Universitat, Federal Reserve Bank of St Louis, Board of Governors (planned), Bank of Canada, 
 * 2019: Midwest Economic Association Annual Meeting (session on the Challenges of Central Banking Policy), Western Economic Association International's Student Graduate Workshop, Annual Congress of the European Economic Association (Manchester), Richmond Fed, St Louis Fed, Young Economist Symposium (Columbia University), Cornell Macro Lunch
@@ -80,6 +88,8 @@ Professional Services
 ======
 * Referee for the B.E Journal of Macroeconomics
 * Reviewer for the Spring Meeting of Young Economists
+* Organization of the Banque de France/Toulouse School of Economics Research seminars (\href{https://www.tse-fr.eu/bdf?tabs=4}{link})
+* Member of the Inequality Task Force - Banque de France
 
 Skills
 ======
