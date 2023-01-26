@@ -4,6 +4,7 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
+* The Macroeconomics of Monetary Policy, Sciences Po Paris, School of International and Public Affairs, Spring 2023
 * The Macroeconomics of Monetary Policy, Sciences Po Paris, School of International and Public Affairs, Spring 2022
 
 I was a teaching assistant for the following courses: 
