@@ -28,7 +28,7 @@ The Signaling Effect of State-Dependent Central Bank Communication
 > In this paper, I document the state-dependent topic composition of FOMC minutes using natural language processing techniques. I then propose a model in which the state-dependent reporting of the central bank impacts agents' expectations about both the state of the economy and the interest rate, therefore creating a ``signaling effect'' about an interest rate change. Taking into account this signaling effect of the topic composition, I derive the central bank's optimal state contingent communication policy. 
 
 Central Bank Information Shocks: Evidence from Speeches} (joint with P.Hubert and M.Le)
-> We first quantify the contribution of speeches to markets' movements over the inter-meeting periods for the ECB and the Fed. We identify the speeches that generate reactions in line with the reactions to the following monetary policy statement, to generate a sample of speeches ``front-loading'' monetary policy shocks, through textual analysis. We then estimate the macroeconomic effects of such shocks.
+> We first quantify the contribution of speeches to markets' movements over the inter-meeting periods for the ECB and the Fed. We identify the speeches that act like monetary policy shocks, through textual analysis. We then estimate the macroeconomic effects of such shocks.
 
 The Effect of Monetary Policy on Consumption Inequality (joint with A.Accardo, C.Jude and A.Penalver)
 > Based on the methodology and data set developed in Accardo et al. (2022), we estimate the impact of monetary policy shocks on consumption inequality for France and the United States.
