@@ -52,7 +52,6 @@ Why can sovereign and corporate borrowers borrow at negative rate? Banque de Fra
 
 Economists: not enough transparency? Evidence from a reproducibility exercise of a top economic journal. SUERF Policy Brief 288 (joint with L.Vilhuber) [<span style="color:#007CBB">Link</span>]<a href="https://www.suerf.org/suer-policy-brief/41583/economists-not-enough-transparency-evidence-from-a-reproducibility-exercise-of-a-top-economic-journal">
 
-Towards more clarity in central bank communication (joint with K.Istrefi and G.Sestieri)
 
 Discussions
 ======
