@@ -4,16 +4,19 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-
-Publications 
+ Publications 
 ======
-[<span style="color:#007CBB">Reproduce to Validate: A Comprehensive Study on the Reproducibility of Economic Research</span>](https://onlinelibrary.wiley.com/doi/epdf/10.1111/caje.12728)  (joint with H. Kingi, F. Stanchi and L.Vilhuber) (CJE) {% include base_path %} [<span style="color:#007CBB">Slides</span>](http://sylverieherbert.github.io/files/Bdf_slides.pdf) {% include base_path %} [<span style="color:#007CBB">BdF WP</span>](http://sylverieherbert.github.io/files/wp853pdf)  [<span style="color:#007CBB">SUERF Policy Brief</span>]<a href="https://www.suerf.org/suer-policy-brief/41583/economists-not-enough-transparency-evidence-from-a-reproducibility-exercise-of-a-top-economic-journal">
+[<span style="color:#007CBB">Reproduce to Validate: A Comprehensive Study on the Reproducibility of Economic Research</span>](https://onlinelibrary.wiley.com/doi/epdf/10.1111/caje.12728)  (joint with H. Kingi, F. Stanchi and L.Vilhuber) * *Canadian Journal of Economics, 2024* * {% include base_path %} [<span style="color:#007CBB">Slides</span>](http://sylverieherbert.github.io/files/Bdf_slides.pdf) {% include base_path %} [<span style="color:#007CBB">BdF WP</span>](http://sylverieherbert.github.io/files/wp853.pdf)  [<span style="color:#007CBB">SUERF Policy Brief</span>](http://sylverieherbert.github.io/files/suerf.pdf) 
 > Replication, reproduction, and falsification of published articles are an important part of the scientific endeavor, and have been widely discussed. The lessons learned from earlier replication exercises such as (Dewald et al, 1986) lead several journals to implement code and data depository requirements. These should have lead to improved reproducibility of journal archives, since a good part of the failure to replicate is due to poor availability of replication materials (McCullough et al, 2006). We set out to test the latter assumption. We assessed all articles published in the American Economic Journal: Applied Economics (AEJ:AE) as to the reproducibility of their computational results, and tested the reproducibility for all those with some data available.
+
 
 Working papers
 ======
 [<span style="color:#007CBB">State-Dependent Central Bank Communication with Heterogeneous Beliefs</span>](http://sylverieherbert.github.io/files/wp875.pdf) **Banque de France Working paper 875** (Submitted)
 > This paper studies the optimal disclosure strategy of a Sender who wishes to influence heterogeneous Receivers' expectations through public disclosure. I introduce heterogeneous priors in a standard bayesian persuasion model a la Gentzkow and Kamenica (2011) and characterize how the optimal disclosure depends on the heterogeneity of beliefs. I show that heterogeneity matters in two ways: (i) it is optimal to be send signals with positive error probabilities, contrarily to the homogeneous belief case; (ii) higher dispersion in beliefs brings the information authority to choose lower error probabilities. I apply the framework to a Central Bank communication problem in which the policy maker communicates about aggregate demand to distort firms' investment decisions. I test the model's predictions empirically by showing that FOMC unemployment rate forecasts are systematically biased in opposite directions in recessions and expansions, and the less so the higher the private sector disagreement is, in line with the model's predictions.
+
+The Signaling Effect of State-Dependent Central Bank Communication
+> In this paper, I document the state-dependent topic composition of FOMC minutes using natural language processing techniques. I then propose a model in which the state-dependent reporting of the central bank impacts agents' expectations about both the state of the economy and the interest rate, therefore creating a ``signaling effect'' about an interest rate change. Taking into account this signaling effect of the topic composition, I derive the central bank's optimal state contingent communication policy. 
 
 
 [<span style="color:#007CBB">Measuring and Comparing Consumption Inequality in France and the United States </span>](http://sylverieherbert.github.io/files/wp904.pdf)  (joint with A.Accardo, C.Jude and A.Penalver)  **Banque de France Working paper 904**
@@ -22,11 +25,10 @@ Working papers
 [<span style="color:#007CBB">Econometric Analysis of Regime Switches and of Fiscal Multipliers</span>](http://sylverieherbert.github.io/files/WP2014-01.pdf) 
 **OFCE Working paper 2014-01**
 >In this paper, I extend the technique of vector autoregressions (VARs) to account for the possibility of a state-dependent fiscal multipliers for France, Germany, Italy and the United States. I estimate a non linear smooth transition vector autoregression, following Auerbach and Gorodnichenko (2012a). My results suggest that the output multiplier of government purchases is significantly higher in recessions than expansions. 
- 
+
+
 Work in progress
 ======
-The Signaling Effect of State-Dependent Central Bank Communication
-> In this paper, I document the state-dependent topic composition of FOMC minutes using natural language processing techniques. I then propose a model in which the state-dependent reporting of the central bank impacts agents' expectations about both the state of the economy and the interest rate, therefore creating a ``signaling effect'' about an interest rate change. Taking into account this signaling effect of the topic composition, I derive the central bank's optimal state contingent communication policy. 
 
 Central Bank Information Shocks: Evidence from Speeches} (joint with P.Hubert and M.Le)
 > We first quantify the contribution of speeches to markets' movements over the inter-meeting periods for the ECB and the Fed. We identify the speeches that act like monetary policy shocks, through textual analysis. We then estimate the macroeconomic effects of such shocks.
