@@ -6,7 +6,7 @@ author_profile: true
 ---
  Publications 
 ======
-[<span style="color:#007CBB">Reproduce to Validate: A Comprehensive Study on the Reproducibility of Economic Research</span>](https://onlinelibrary.wiley.com/doi/epdf/10.1111/caje.12728)  (joint with H. Kingi, F. Stanchi and L.Vilhuber) *Canadian Journal of Economics, 2024*\
+[<span style="color:#007CBB">Reproduce to Validate: A Comprehensive Study on the Reproducibility of Economic Research</span>](https://onlinelibrary.wiley.com/doi/epdf/10.1111/caje.12728)  (joint with H. Kingi, F. Stanchi and L.Vilhuber) *Canadian Journal of Economics, 2024*  
 {% include base_path %} [<span style="color:#007CBB">Slides</span>](http://sylverieherbert.github.io/files/Bdf_slides.pdf) {% include base_path %} [<span style="color:#007CBB">BdF WP</span>](http://sylverieherbert.github.io/files/wp853.pdf)  [<span style="color:#007CBB">SUERF Policy Brief</span>](http://sylverieherbert.github.io/files/suerf.pdf) 
 > Replication, reproduction, and falsification of published articles are an important part of the scientific endeavor, and have been widely discussed. The lessons learned from earlier replication exercises such as (Dewald et al, 1986) lead several journals to implement code and data depository requirements. These should have lead to improved reproducibility of journal archives, since a good part of the failure to replicate is due to poor availability of replication materials (McCullough et al, 2006). We set out to test the latter assumption. We assessed all articles published in the American Economic Journal: Applied Economics (AEJ:AE) as to the reproducibility of their computational results, and tested the reproducibility for all those with some data available.
 
