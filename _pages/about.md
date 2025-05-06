@@ -14,8 +14,7 @@ I am a macroeconomist with research interest at the intersection of monetary eco
 
 I received my PhD in economics from Cornell under the supervision of [Kristoffer Nimark](http://www.kris-nimark.net/) (chair), [Chris Huckfeldt](https://huckfeldt.economics.cornell.edu/), [Julieta Caunedo](https://www.julietacaunedo.com/) and [Lars Vilhuber](https://www.ilr.cornell.edu/people/lars-vilhuber). 
 
-Here is my  {% include base_path %}
-[[<span style="color:#007CBB">CV</span>]](../files/HerbertSylverie_CV_policy.pdf)
+Here is my  {% include base_path %} [[<span style="color:#007CBB">CV</span>]](../files/HerbertSylverie_CV_policy.pdf)
 
 {% include base_path %}
 
