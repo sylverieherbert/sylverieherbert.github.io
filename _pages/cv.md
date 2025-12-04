@@ -25,6 +25,10 @@ Research Fields
 ======
 Macroeconomics (Monetary Economics), Information Economics (Rational Inattention, Expectations Formation)
 
+Publications 
+======
+Reprodu
+
 Working papers
 ======
 * State-Dependent Central Bank Communication with Heterogeneous Beliefs
@@ -46,7 +50,8 @@ Work in progress
 
 Work experience
 ======
-* August 2020-: Banque de France, Research Economist,  Monetary and Financial Studies Division, Monetary Policy Department
+* August 2024- Banque de France, Senior Research Economist,  Monetary and Financial Studies Division, Monetary Policy Department
+* August 2020-2024: Banque de France, Research Economist,  Monetary and Financial Studies Division, Monetary Policy Department
 * 2019: Federal Reserve Bank of Richmond and Federal Reserve Bank of St. Louis, CSWEP Summer Dissertation Fellowship 
 * 2018: European Central Bank, DG Research - Monetary Policy, PhD Summer Research Internship
 * 2016-present: Cornell University, Research Assistant for Lars Vilhuber
@@ -76,6 +81,8 @@ Honors, Scholarships and Fellowships
   
 Conferences and presentations
 ======
+* 2025: CEPR Symposium, Bilkent University, NCB5, Rennes University, Ghent University Macro Workshop, Liverpool University, EABCN-EUI conference, IAAE Conference, WIRE (Riksbank)
+* 2024: IAAE
 * 2022: HEC Paris (invited), Theories and Method (T2M) London, Modeling Uncertainty (MUSEES) conference - EM Lyon, Western Economic Association International (invited), ECB-NY Fed-CEMLA conference on new challenges in monetary policy, ESCB research cluster 2, LISER conference on inflation inequalities (invited), Toulouse School of Economics, Banque de France network (Lyon)
 * 2021: Banco de Portugal, Banque de France DGSEI seminar, Universite Paris-Dauphine, Workshop in Monetary Economics University of Basel, Bundesbank and Riksbank ESCB research cluster conferences (discussions), International Economics Club
 * 2020: European Central Bank, Banca d'Italia, Banque de France, Bank of England, Bundesbank, Sverige Riksbank, Norges Bank, St Gallen Universitat, Federal Reserve Bank of St Louis, Board of Governors (planned), Bank of Canada, 
@@ -86,10 +93,8 @@ Conferences and presentations
   
 Professional Services 
 ======
-* Referee for the B.E Journal of Macroeconomics
-* Reviewer for the Spring Meeting of Young Economists
-* Organization of the Banque de France/Toulouse School of Economics Research seminars (\href{https://www.tse-fr.eu/bdf?tabs=4}{link})
-* Member of the Inequality Task Force - Banque de France
+* Referee for the JMCB, B.E Journal of Macroeconomics, Scandinavian Journal of Macroeconomics
+* Organization of the Banque de France/Toulouse School of Economics Research seminars (\href{https://www.tse-fr.eu/bdf?tabs=4}{link}), ESCB Research Cluster on Monetary Economics
 
 Skills
 ======
